@@ -1,0 +1,23 @@
+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
+
+There are 20 points for 10 tasks in this final project.
+
+1. Task 1: Provide the GitHub repo URL to which you pushed your changes (2 pts).
+
+2. Task 2: Provide the GitHub URL of .github/workflows/workflow.yml showing the code snippet for the linting step (2 pts).
+
+3. Task 3: Provide the GitHub URL of .github/workflows/workflow.yml showing the code snippet for the test step (2 pts).
+
+4. Task 4: Provide the GitHub URL of .tekton/tasks.yml showing the code snippet for the cleanup task (2 pts).
+
+5. Task 5: Provide the GitHub URL of .tekton/tasks.yml showing the code snippet for the nose test task (2 pts).
+
+6. Task 6: Provide the screenshot showing OpenShift PVC details - oc-pipelines-console-pvc-details(.png/jpg) (2 pts).
+
+7. Task 7: Provide the screenshot showing GitHub actions running successfully - cicd-github-validate(.png/jpg) (2 pts).
+
+8. Task 8: Provide the screenshot showing details of the OpenShift Pipeline - oc-pipelines-oc-final(.png/jpg) (2 pts).
+
+9. Task 9: Provide the screenshot showing details of the OpenShift Pipeline running successfully - oc-pipelines-oc-green(.png/jpg) (2 pts).
+
+10.  Task 10: Provide the screenshot of the running application logs from OpenShift console - oc-pipelines-app-logs(.png/jpg) (2 pts).
